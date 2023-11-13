@@ -11,8 +11,8 @@ It utilizes the Set data structure provided by ES6 to maintain an array of uniqu
 ## Technology
 - React
 
-## live view
+## Live view
 https://majestic-klepon-d9f72f.netlify.app/
 
-## design
+## Design
 ![Design preview for the laptop](./screenshots/one.png)
