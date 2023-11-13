@@ -9,7 +9,7 @@ categories from the data.js.
 React
 
 ## live view
-
+https://majestic-klepon-d9f72f.netlify.app/
 
 
 ## design
